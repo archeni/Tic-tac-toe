@@ -1,0 +1,18 @@
+.TableBox {
+    display:flex;
+    justify-content: center;
+}
+
+.miniBox {
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+}
+.miniBox:hover {
+    background-color: rgb(221, 220, 220);
+}
+
+h1 {
+    text-transform: uppercase;
+    align: center;
+}
