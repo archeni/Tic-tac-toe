@@ -1,7 +1,7 @@
 export const Box = () => {
     return `
         <section class="Box">
-            <table class="TableBox">
+            <table id="TableBox">
                 <tr>
                     <td class="miniBox"></td>
                     <td class="miniBox"></td>
